@@ -1,5 +1,7 @@
 #Sentiment Analysis of Amazon Customer Reviews using Web Scraping and NLP
 
+Modeled a Support Vector Machine (SVM) in Python to classify whether a review represents a positive or negative sentiment. Trained model on word embeddings created using TF-IDF Bigrams on the Amazon Online Customer Reviews Data from Kaggle. Tested the model on new test data from Amazon.com obtained by using web crawling and web scraping techniques.
+
 ## Abstract 
 The idea of the project is to do web crawling and to scrape the live Amazon customer reviews data of the different 
 laptop manufactures and to perform sentiment analysis on the scraped dataset. After the sentiment analysis is done, the results for each and individual customer reviews are categorised into
